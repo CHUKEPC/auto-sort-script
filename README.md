@@ -31,8 +31,8 @@
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/yourusername/autosortscript.git
-cd autosortscript
+git clone https://github.com/CHUKEPC/auto-sort-script.git
+cd auto-sort-script
 ```
 
 2. **Установите зависимости:**
